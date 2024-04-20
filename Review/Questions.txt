@@ -1,0 +1,22 @@
+﻿1)Build a program that calculates shipping costs based on the weight and destination of a package.
+
+For packages under 5 pounds:
+Domestic (within the country) shipping costs $5.
+International shipping costs $10.
+For packages weighing 5 pounds or more:
+Domestic shipping costs $10.
+International shipping costs $20.
+
+
+2)Build a console application that reverses the elements of a generic array. Users should be able to input an array of any type (e.g., integers, strings) and see the elements reversed and printed to the console.
+
+
+3)Create a program that reads a collection of sales transactions with properties like product name, quantity, and price. Use LINQ to group the transactions by product name and calculate total sales quantity and revenue for each product. Utilize lambda expressions to filter transactions based on specific criteria.
+
+
+4)Modify an existing table by adding, modifying, or dropping columns or constraints.
+Deletes an existing table and all its data.
+Inserts new rows into a table.
+Modifies existing rows in a table.
+Removes rows from a table.
+Deletes all rows from a table while keeping the table structure intact.
